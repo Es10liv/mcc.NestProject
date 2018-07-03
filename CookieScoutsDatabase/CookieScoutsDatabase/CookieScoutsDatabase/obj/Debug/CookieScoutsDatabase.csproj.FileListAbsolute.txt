@@ -1,0 +1,12 @@
+E:\projects\CookieScoutsDatabase\CookieScoutsDatabase\bin\Debug\CookieScoutsDatabase.mdf
+E:\projects\CookieScoutsDatabase\CookieScoutsDatabase\bin\Debug\CookieScoutsDatabase_log.ldf
+E:\projects\CookieScoutsDatabase\CookieScoutsDatabase\bin\Debug\CookieScoutsDatabase.exe.config
+E:\projects\CookieScoutsDatabase\CookieScoutsDatabase\bin\Debug\CookieScoutsDatabase.exe
+E:\projects\CookieScoutsDatabase\CookieScoutsDatabase\bin\Debug\CookieScoutsDatabase.pdb
+E:\projects\CookieScoutsDatabase\CookieScoutsDatabase\obj\Debug\CookieScoutsDatabase.csprojResolveAssemblyReference.cache
+E:\projects\CookieScoutsDatabase\CookieScoutsDatabase\obj\Debug\CookieScoutsDatabase.frmCookieCustomers.resources
+E:\projects\CookieScoutsDatabase\CookieScoutsDatabase\obj\Debug\CookieScoutsDatabase.Properties.Resources.resources
+E:\projects\CookieScoutsDatabase\CookieScoutsDatabase\obj\Debug\CookieScoutsDatabase.csproj.GenerateResource.Cache
+E:\projects\CookieScoutsDatabase\CookieScoutsDatabase\obj\Debug\CookieScoutsDatabase.csproj.CoreCompileInputs.cache
+E:\projects\CookieScoutsDatabase\CookieScoutsDatabase\obj\Debug\CookieScoutsDatabase.exe
+E:\projects\CookieScoutsDatabase\CookieScoutsDatabase\obj\Debug\CookieScoutsDatabase.pdb
