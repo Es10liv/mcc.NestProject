@@ -1,0 +1,10 @@
+D:\projects\FuelEconomy\FuelEconomy\bin\Debug\FuelEconomy.exe.config
+D:\projects\FuelEconomy\FuelEconomy\bin\Debug\FuelEconomy.exe
+D:\projects\FuelEconomy\FuelEconomy\bin\Debug\FuelEconomy.pdb
+D:\projects\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.csprojResolveAssemblyReference.cache
+D:\projects\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.frmMPGRatings.resources
+D:\projects\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.Properties.Resources.resources
+D:\projects\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.csproj.GenerateResource.Cache
+D:\projects\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.csproj.CoreCompileInputs.cache
+D:\projects\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.exe
+D:\projects\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.pdb
